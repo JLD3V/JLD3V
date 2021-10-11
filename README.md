@@ -1,16 +1,22 @@
 
--  <H2>Hello !
+## Hello ! 😃
+<br>
 
-<H1> I’m <b><span color:red>JLD3V</b>
+# ~~~ I’m *JLD3V* ~~~
+<br>
 
-<H4>- 👀 I’m interested in :</H4>	* Web,<br>
-									* Full stack,<br>
-									* Security<br>
+#### 👀 I’m interested in :
+* Web
+* Full stack
+* Security
 									
-<H4>- 🌱 I’m currently learning :</H4> 	* Kotlin,<br>
-										* Android studio<br>
+#### 🌱 I’m currently learning :
+* Kotlin
+* Android studio
 										
-<H4>- 💞️ I’m looking to collaborate on :</H4> * good practice & tips
+#### 💞️ I’m looking to collaborate on :
+* Tips & good practice
+* Noticeable release
 
 <!---
 JLD3V/JLD3V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
